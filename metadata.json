@@ -1,0 +1,6 @@
+{
+  "name": "OpenSCQ30",
+  "description": "Control and equalizer manager for Anker Soundcore headphones and earbuds",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
